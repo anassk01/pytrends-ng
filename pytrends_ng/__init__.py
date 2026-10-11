@@ -10,7 +10,7 @@ import re
 import pandas as pd
 import requests
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __all__ = ["TrendReq", "TrendsError"]
 
 ACTOR = "githubanassk~google-trends-scraper"
